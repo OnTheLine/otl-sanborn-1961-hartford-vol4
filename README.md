@@ -1,10 +1,12 @@
 # otl-sanborn-1961-hartford-vol4
-Sanborn Fire Insurance maps updated to 1961 for Hartford CT volume 4, including part of West Hartford
+Sanborn Fire Insurance maps 1922-1961 for Hartford CT volume 4, including part of West Hartford
 
-Sanborn Map Company, Insurance Maps of Hartford Connecticut (New York: Sanborn Map Co, 1961), images digitized from Connecticut State Library, https://cscu-csl-primo.hosted.exlibrisgroup.com/permalink/f/1aj269h/01CSCU_NETWORK_ALMA7176213960003451.
+Sanborn Map Company, Insurance Maps of Hartford Connecticut (New York: Sanborn Map Co, 1922-1961), images digitized from Connecticut State Library, https://cscu-csl-primo.hosted.exlibrisgroup.com/permalink/f/1aj269h/01CSCU_NETWORK_ALMA7176213960003451.
 
-Originally published 1922-23, updated to 1961 (so use the latter date in citations).
+Originally published 1922-23, updated to 1961.
 "Kept up to date by replacement pages and tissue paper overlays, some hand colored."
+
+Digitized by Jack Dougherty, Trinity College, for On The Line https://ontheline.trincoll.edu
 
 ## See also
 - https://github.com/ontheline/otl-sanborn-1961-hartford-vol1
