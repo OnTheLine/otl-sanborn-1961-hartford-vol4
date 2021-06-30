@@ -16,5 +16,17 @@ US Library of Congress, “Sanborn Fire Insurance Maps Online Checklist,” http
 
 - Hartford volume 1, 1922-1950 https://www.loc.gov/item/sanborn01132_009/
 - Hartford volume 2, 1922-1950 https://www.loc.gov/item/sanborn01132_010/ (not yet available as of June 2021).
-- Hartford volume 3, 1922-1950 https://www.loc.gov/item/sanborn01132_011/
+- Hartford volume 3, 1923-1950 https://www.loc.gov/item/sanborn01132_011/
 - Hartford volume 4, 1923-1950 https://www.loc.gov/item/sanborn01132_012/ (not yet available as of June 2021).
+
+## Notes
+- page 417 Congregation Chevre Kadishe Teferes Israel Synagogue, Burlington & Blue Hills
+- page 419 Congregation Tikhov Chadoshoh Synagogue, Cornwall St; Yeshiva of Hartford Jewish School, Lyme & Plainfield
+- page 422 Beth Sholom Synagogue, Cornwall and Andover
+- page 425 (former, covered over) Blue Hills Homes, USHA Project
+- page 425 Jonathan Temple Synagogue, Blue Hills and E Morningside
+- page 440 Temple Beth Israel, West Hartford
+- page 457 Beth El Temple School, Albany Ave near Crabapple Rd
+- page 462 Westbrook Village, state housing (note in red pen "#8 2,396,620" and similar on other public housing projects)
+- page 463 Chester Bowles Park, state housing
+- page 476 inset, Emanuel Synagogue Religious School on Mohegan Drive
